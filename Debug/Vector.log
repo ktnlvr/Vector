@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\programming language\c & cpp\Vector\Vector.h(64,1): warning C4102:  loopthrew: неиспользованная метка
+  Vector.vcxproj -> D:\programming language\c & cpp\Vector\Debug\Vector.exe
